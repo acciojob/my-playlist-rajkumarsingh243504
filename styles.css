@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+.hero{
+    background-color: #cccccc;
+}
+body
+{
+    background-color: rgb(255, 255, 255);; 
+}
+nav
+{
+background-color: #ffffff;
+border: 1px solid black;
+border-radius: 5px;
+height: auto;
+width:500px
+padding-left: 20px;
+}
+.video
+{
+    background-color:#ffffff ;
+}
+h1
+{
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+  li
+ {
+    list-style-type: none;
+}
+a
+{
+    text-decoration: none;
+}
